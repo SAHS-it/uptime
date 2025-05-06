@@ -4,18 +4,20 @@
     "url": "https://www.ippodromoghirlandina.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.ippodromoghirlandina.it.ico",
     "slug": "ippodromoghirlandina-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1067,
-    "timeDay": 789,
-    "timeWeek": 1464,
-    "timeMonth": 1297,
-    "timeYear": 1067,
-    "dailyMinutesDown": {}
+    "time": 1076,
+    "timeDay": 2173,
+    "timeWeek": 1725,
+    "timeMonth": 1370,
+    "timeYear": 1076,
+    "dailyMinutesDown": {
+      "2025-05-06": 0
+    }
   },
   {
     "name": "Ippodromo services",
