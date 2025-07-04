@@ -11,10 +11,10 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
     "time": 1087,
-    "timeDay": 1808,
-    "timeWeek": 1436,
-    "timeMonth": 1191,
-    "timeYear": 1105,
+    "timeDay": 1264,
+    "timeWeek": 1484,
+    "timeMonth": 1194,
+    "timeYear": 1106,
     "dailyMinutesDown": {
       "2025-06-12": 124
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ippodromo-services",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 578,
-    "timeWeek": 760,
-    "timeMonth": 720,
-    "timeYear": 718,
+    "time": 726,
+    "timeDay": 1010,
+    "timeWeek": 764,
+    "timeMonth": 732,
+    "timeYear": 719,
     "dailyMinutesDown": {}
   }
 ]
