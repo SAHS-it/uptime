@@ -4,7 +4,7 @@
     "url": "https://www.ippodromoghirlandina.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.ippodromoghirlandina.it.ico",
     "slug": "ippodromoghirlandina-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1352,
     "timeYear": 1126,
     "dailyMinutesDown": {
+      "2025-07-17": 0,
       "2025-06-12": 124
     }
   },
