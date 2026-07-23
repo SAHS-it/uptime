@@ -4,24 +4,25 @@
     "url": "https://www.ippodromoghirlandina.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.ippodromoghirlandina.it.ico",
     "slug": "ippodromoghirlandina-it",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.94%",
-    "time": 1544,
-    "timeDay": 1429,
-    "timeWeek": 2181,
-    "timeMonth": 2471,
-    "timeYear": 1615,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.92%",
+    "time": 1550,
+    "timeDay": 2163,
+    "timeWeek": 2342,
+    "timeMonth": 2505,
+    "timeYear": 1622,
     "dailyMinutesDown": {
       "2025-09-21": 28,
       "2025-12-05": 23,
       "2026-03-11": 85,
       "2026-03-10": 6,
       "2026-05-31": 134,
-      "2026-07-03": 65
+      "2026-07-03": 65,
+      "2026-07-23": 57
     }
   },
   {
@@ -39,7 +40,7 @@
     "timeDay": 1181,
     "timeWeek": 1111,
     "timeMonth": 1128,
-    "timeYear": 832,
+    "timeYear": 831,
     "dailyMinutesDown": {}
   }
 ]
